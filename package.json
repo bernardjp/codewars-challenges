@@ -1,0 +1,24 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardjp/codewars-challenges.git"
+  },
+  "author": "JP Bernard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardjp/codewars-challenges/issues"
+  },
+  "homepage": "https://github.com/bernardjp/codewars-challenges#readme",
+  "type": "module"
+}
