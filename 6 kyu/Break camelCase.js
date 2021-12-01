@@ -7,6 +7,6 @@ Example
 ""             =>  ""
 */
 
-function solution(string) {
+export default function solution(string) {
   return string.split(/([A-Z][a-z]+)/g).filter(Boolean).join(' ');
 }
